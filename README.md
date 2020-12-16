@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/sandipsavani/json-data](https://my-json-server.typicode.com/[Git Profile Name]sandipsavani/[Git Repo Name]
+[https://my-json-server.typicode.com/sandipsavani/json-data](https://my-json-server.typicode.com/ [Git Profile Name]sandipsavani/ [Git Repo Name]
 json-data)
 
 ## Use your own data
